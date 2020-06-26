@@ -1,7 +1,7 @@
 import 'location.dart';
 import 'networking.dart';
 
-const String appid = 'cd8625dee098ac5d5ac292f5b9728b04';
+const String appid = '439d4b804bc8187953eb36d2a8c26a02';
 const String api = 'https://api.openweathermap.org/data/2.5/weather';
 
 class WeatherModel {
